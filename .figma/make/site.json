@@ -1,0 +1,10 @@
+{
+  "description": "Monitors and protects aerospace assets with AI-driven threat detection, analysis, and autonomous repair for enhanced defense and operational security.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
